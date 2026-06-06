@@ -3,7 +3,7 @@
 A Python-based network traffic analysis tool built on Kali Linux using Scapy. Captures live packets from a network interface, performs protocol-level analysis, detects anomalies like port scans and suspicious port access, and generates a dark-themed HTML report of all findings.
 
 
-![banner text](assets/bannr.png)
+![banner text](assets/banner.png)
 ---
 
 ## Features
